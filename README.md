@@ -1,6 +1,7 @@
 ### About Me
 Hi there ✋!
-I Shaman SR and I am an experienced full-stack developer with a strong background in MEAN and MERN stack web development, Android app development, and microservices. I excel both as a team collaborator and an independent contributor, specializing in crafting high-performance, scalable solutions while prioritizing an intuitive user experience. My work adheres to industry-standard practices and guidelines, and I remain up-to-date with emerging technologies and best practices in the field.
+
+I am Shaman SR and I am an experienced full-stack developer with a strong background in MEAN and MERN stack web development, Android app development, and microservices. I excel both as a team collaborator and an independent contributor, specializing in crafting high-performance, scalable solutions while prioritizing an intuitive user experience. My work adheres to industry-standard practices and guidelines, and I remain up-to-date with emerging technologies and best practices in the field.
 
 ### My Experience
 | Kaplan | Period of work (08/2023 - Present) |
