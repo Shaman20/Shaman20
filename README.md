@@ -57,8 +57,8 @@ I am Shaman SR and I am an experienced full-stack developer with a strong backgr
 </p>
 
 ### My Contributions
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaman20&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaman20&layout=compact&theme=cobalt&hide_border=true" />
 
 ### Latest Blogs
 
