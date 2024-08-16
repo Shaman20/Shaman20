@@ -6,7 +6,7 @@ I am Shaman SR and I am an experienced full-stack developer with a strong backgr
 ### My Experience
 | Kaplan | Period of work (08/2023 - Present) |
 |:---------:|:----------------------------------:|
-| Associate Software Engineer | As a MERN stack developer in my role as an Associate Software Engineer, my primary responsibilities involve retrieving data from microservices and presenting it on the frontend. Specifically, I create GraphQL resolvers and mutations to fetch information from the database, enabling the seamless display of data on the browser using React.js. My development activities are centered around the API gateway, and I've also gained experience working on gRPC requests to fetch data from microservices and subsequently transmit it to the gateway.
+| Software Engineer 1 | As a MERN stack developer in my role as an Software Engineer,Developed and maintained API Gateway using Node.js and TypeScript, fetching data from REST APIs and serving it to the frontend via GraphQL, enhancing data handling efficiency and integration. Implemented caching strategies with Redis, significantly improving application latency and overall user experience by reducing data retrieval times. Led technical upgrades, including Apollo GraphQL server version upgrades, ensuring the application remained up-to-date with the latest features and security enhancements. Architected and deployed microservices within a Docker containerized environment, facilitating consistent and scalable deployment processes.Automated CI/CD pipelines using Jenkins, creating scripts to validate pull requests and ensuring robust code quality and seamless integration with GitHub.
 
 ### Programming Languages
 <p>
@@ -54,6 +54,10 @@ I am Shaman SR and I am an experienced full-stack developer with a strong backgr
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
+
+### Achievements
+1. Kaplan Star Award for my exceptional performance.
+2. Promotion from Intern to Associate Software Engineer to Software Engineer 1 in my 1st year.
 
 ### My Contributions
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaman20&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
